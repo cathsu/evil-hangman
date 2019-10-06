@@ -1,0 +1,49 @@
+Enter word length: 
+4
+How many guesses allowed?
+10
+numGuesses = 10
+remaining guesses = 10
+Guesses remaining: 10
+Letters guessed: []
+current : _ _ _ _ 
+Enter a letter to guess: 
+f
+No f's
+Guesses remaining: 9
+Letters guessed: [f]
+current : _ _ _ _ 
+Enter a letter to guess: 
+e
+No e's
+Guesses remaining: 8
+Letters guessed: [f, e]
+current : _ _ _ _ 
+Enter a letter to guess: 
+l
+No l's
+Guesses remaining: 7
+Letters guessed: [f, e, l]
+current : _ _ _ _ 
+Enter a letter to guess: 
+o
+2 o(s)
+Guesses remaining: 6
+Letters guessed: [f, e, l, o]
+current : _ o o _ 
+Enter a letter to guess: 
+w
+No w's
+Guesses remaining: 5
+Letters guessed: [f, e, l, o, w]
+current : _ o o _ 
+Enter a letter to guess: 
+g
+1 g(s)
+Guesses remaining: 4
+Letters guessed: [f, e, l, o, w, g]
+current : g o o _ 
+Enter a letter to guess: 
+d
+1 d(s)
+Out of guesses, Loser!
